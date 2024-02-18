@@ -17,7 +17,7 @@ I am an aspiring web developer located in Poland, eager to learn and grow in the
 ## Contacts:
 - ![Location](URL_к_иконке_местоположения) Location: Poznan, Poland  
 - ![Phone](URL_к_иконке_телефона) Phone: +38-099-707-81-64 | +48-452-351-678
-- ![Telegram](https://fontawesome.com/icons/telegram?f=brands&s=solid) Telegram: [hlynianyi_tg](https://t.me/hlynianyi_tg)
+- ![Telegram](<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />) Telegram: [hlynianyi_tg](https://t.me/hlynianyi_tg)
 - ![Email](URL_к_иконке_электронной_почты) Email: [hlynianyi.vladyslav@gmail.com](mailto:hlynianyi.vladyslav@gmail.com)
 - ![LinkedIn](URL_к_иконке_LinkedIn) LinkedIn: [Vladyslav Hlynianyi](https://www.linkedin.com/in/vladyslav-hlynianyi)
 - ![GitHub](URL_к_иконке_GitHub) GitHub: [hlynianyi](https://github.com/hlynianyi)
