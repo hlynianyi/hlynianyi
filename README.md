@@ -1,9 +1,10 @@
-# Hi everyone, i am Vladyslav Hlynianyi 💖
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&random=false&width=435&lines=Hi+everyone!+I+am+Vladyslav+Hlynianyi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&random=false&width=550&lines=Hi+everyone!+I+am+Vladyslav+Hlynianyi+%F0%9F%92%96)](https://git.io/typing-svg)
+
 ## About Me
 I am an aspiring web developer eager to learn and grow in the IT field. Proficient in a broad spectrum of relevant web development technologies, I am excited to apply these skills to real-world projects. With an IT background and additional training, I aim to contribute to team efforts and further develop professional skills aimed at achieving specific business objectives. Capable of working in teams using Ukrainian, Russian, and English for communication.
 
-## Skills [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,redux,node,jest)](https://skillicons.dev)
+## Skills
+- **Core**: HTML, CSS (including SCSS), JavaScript, TypeScript, React, Redux/Redux Toolkit, Node.js, Jest
 - **Styling**: Bootstrap, Tailwind, Material-UI
 - **Libraries/Frameworks**: Axios, i18next, yup, on-change
 - **Developer Tools**: Git, VS Code, Visual Studio, IntelliJ, Eclipse
