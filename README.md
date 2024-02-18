@@ -1,11 +1,10 @@
 # Hi everyone, i am Vladyslav Hlynianyi 💖
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&random=false&width=435&lines=Hi+everyone!+I+am+Vladyslav+Hlynianyi)](https://git.io/typing-svg)
 ## About Me
 I am an aspiring web developer eager to learn and grow in the IT field. Proficient in a broad spectrum of relevant web development technologies, I am excited to apply these skills to real-world projects. With an IT background and additional training, I aim to contribute to team efforts and further develop professional skills aimed at achieving specific business objectives. Capable of working in teams using Ukrainian, Russian, and English for communication.
 
-## Skills
-- **Core**: HTML, CSS (including SCSS), JavaScript, TypeScript, React, Redux/Redux Toolkit, Node.js, Jest [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,redux,node,jest)](https://skillicons.dev)
-- **Styling**: Bootstrap, Tailwind, Material-UI [![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,tailwind)](https://skillicons.dev)
+## Skills [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,redux,node,jest)](https://skillicons.dev)
+- **Styling**: Bootstrap, Tailwind, Material-UI
 - **Libraries/Frameworks**: Axios, i18next, yup, on-change
 - **Developer Tools**: Git, VS Code, Visual Studio, IntelliJ, Eclipse
 - **Build Tools**: Webpack, ESLint
@@ -22,18 +21,8 @@ I am an aspiring web developer eager to learn and grow in the IT field. Proficie
 ## Experience
 - **Front-end Developer**, 1 yr. 11 mo.
 
-## Some of my projects hosted here on GitHub
-- **RSS Aggregator** (HTML, JavaScript, Bootstrap, webpack, yup, on-change, i18next, axios)
-  - September 2022
-- **Chat Slack** (React, Redux, Bootstrap, AJAX, REST, formik, websocket, i18n, Rollbar)
-  - November 2023
-- **Online Store** (React, Redux/Toolkit, Tailwindcss, axios)
-  - February 2023
-- **Hot Skins** (React, Redux/Toolkit, Typescript, axios)
-  - December 2023
-
 ---
 
-[![](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) [hlynianyi.vladyslav@gmail.com](mailto:hlynianyi.vladyslav@gmail.com)
-[![](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [LinkedIn](https://linkedin.com/in/vladyslav-hlynianyi)
-[![](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [GitHub](https://github.com/hlynianyi)
+📧 [hlynianyi.vladyslav@gmail.com](mailto:hlynianyi.vladyslav@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/vladyslav-hlynianyi)
+🔗 [GitHub](https://github.com/hlynianyi)
